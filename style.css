@@ -29,9 +29,13 @@ p {
 }
 
 a {
-  transition: 1s;
+  transition: 0.3s;
 }
 
 a:hover {
-  transform: rotate(360deg);
+  transform: scale(1.2);
+}
+
+li img {
+  width: 100%;
 }
