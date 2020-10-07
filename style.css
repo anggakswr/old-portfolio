@@ -39,3 +39,7 @@ a:hover {
 li img {
   width: 100%;
 }
+
+.skills img {
+  width: 80px;
+}
